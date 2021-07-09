@@ -1,0 +1,8 @@
+io/swagger/petstore/test/runners/CrearUsuarioRunner.java
+ io.swagger.petstore.test.runners.CrearUsuarioRunner
+io/swagger/petstore/test/stepdefinitions/CrearUsuarioStepDefinitions.java
+ io.swagger.petstore.test.stepdefinitions.CrearUsuarioStepDefinitions
+io/swagger/petstore/test/runners/PedidoParaMascotaRunner.java
+ io.swagger.petstore.test.runners.PedidoParaMascotaRunner
+io/swagger/petstore/test/stepdefinitions/PedidoParaMascotaStepDefinitions.java
+ io.swagger.petstore.test.stepdefinitions.PedidoParaMascotaStepDefinitions
